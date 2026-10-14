@@ -11,7 +11,6 @@ canonical: skala
 featured: false
 order: 5
 ---
-**Field Note**
 
 Sales are climbing. You're busier than you've ever been. And somehow, everything takes longer, costs more, and breaks more often than it did a year ago when you were smaller. If that sounds familiar, you're not imagining it, and you're not failing. You're running into a well-documented pattern: growth is a stress test, not a reward, and most businesses fail the test at a predictable point.
 

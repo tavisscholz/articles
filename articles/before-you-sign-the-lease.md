@@ -11,7 +11,6 @@ canonical: skala
 featured: true
 order: 3
 ---
-**Field Note**
 
 The corner is perfect. Good visibility, strong traffic, the right neighbors, a landlord who wants you. Everybody who walks it says the same thing. And you can still lose money there for nine years, because the address is only one of the questions a lease answers, and it's the one operators spend the most time on.
 

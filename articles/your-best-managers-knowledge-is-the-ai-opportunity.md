@@ -11,7 +11,6 @@ canonical: skala
 featured: false
 order: 11
 ---
-**Field Note**
 
 Think about the manager everyone calls when a store has a problem the manual doesn't cover.
 

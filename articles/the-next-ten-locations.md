@@ -11,7 +11,6 @@ canonical: skala
 featured: false
 order: 7
 ---
-**Field Note**
 
 You did the hard part. Unit one, you built with your own hands. Unit two and three, you ran on hustle: eighteen-hour days, personally training every manager, personally answering every 11pm call. It worked. Now you're staring at unit four or five, and something's off. It doesn't feel like the business is compounding. It feels like it's fraying. Margins are softer than they were. Turnover's up. You're more tired for less result than you were a year ago.
 

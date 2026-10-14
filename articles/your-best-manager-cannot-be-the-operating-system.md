@@ -11,7 +11,6 @@ canonical: skala
 featured: true
 order: 1
 ---
-**Field Note**
 
 You have one. Every multi-unit operator does. The manager whose store just runs. Labor lands, shrink stays low, the team stays, the reviews are good, and when something goes sideways at another location, she's the one you send. You've thought about cloning her. You've probably tried: put her in charge of training, had new managers shadow her for two weeks, asked her to write down how she does it. And the other stores still don't run like hers.
 

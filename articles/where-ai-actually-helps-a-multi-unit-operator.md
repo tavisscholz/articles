@@ -11,7 +11,6 @@ canonical: skala
 featured: false
 order: 10
 ---
-**Field Note**
 
 Most lists of AI use cases are lists of tasks: write the email, summarize the lease, answer the question.
 

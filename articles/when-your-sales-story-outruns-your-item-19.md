@@ -11,7 +11,6 @@ canonical: skala
 featured: true
 order: 4
 ---
-**Field Note**
 
 A candidate is six weeks into your pipeline and everything has gone right. Discovery Day landed. The unit economics conversation felt honest. They're ready to sign. Then their attorney finishes the FDD review and the deal goes quiet. Not because the numbers in Item 19 were bad. Because they weren't the numbers the candidate had already been told.
 

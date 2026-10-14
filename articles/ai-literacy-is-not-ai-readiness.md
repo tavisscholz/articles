@@ -11,7 +11,6 @@ canonical: skala
 featured: false
 order: 9
 ---
-**Field Note**
 
 When a new technology arrives, most companies reach for the same first move: train people.
 
