@@ -1,0 +1,29 @@
+# Regenerates index.json whenever an article changes, so consuming sites can
+# read the whole catalog in a single raw.githubusercontent.com fetch (no REST
+# API, no rate limits). The commit touches only index.json, which the paths
+# filter ignores — no workflow loop.
+name: Build index
+
+on:
+  push:
+    branches: [main]
+    paths: ["articles/**", "tools/build-index.py"]
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  index:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 tools/build-index.py
+      - run: |
+          git config user.name "article-index"
+          git config user.email "actions@users.noreply.github.com"
+          git add index.json
+          git diff --cached --quiet && echo "No changes." || {
+            git commit -m "Rebuild index.json"
+            git push
+          }
